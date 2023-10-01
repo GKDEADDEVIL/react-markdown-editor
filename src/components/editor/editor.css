@@ -1,0 +1,24 @@
+.editor__wrap {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.editor {
+  width: 100%;
+  flex-grow: 1;
+  color: #fff;
+  margin-bottom: 20px;
+  border: none;
+  outline: none;
+  appearance: none;
+  background: none;
+  resize: none;
+  background: rgba(255, 255, 255, 0);
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.8px);
+  -webkit-backdrop-filter: blur(6.8px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 15px;
+}
