@@ -1,4 +1,3 @@
-```markdown
 # React Markdown Editor
 
 A simple and user-friendly Markdown editor built with React.
